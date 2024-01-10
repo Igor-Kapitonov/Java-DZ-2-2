@@ -14,8 +14,8 @@ public class Main {
         }
         int Score = startingScore + bonus + replenishment; //сумма с учетом пополнения
 
-            System.out.println((bonus) + " начислено бонусов"); // вывод бонусов на экран
-            System.out.println((Score) + " доступный баланс"); // вывод баланса на экран
+        System.out.println((bonus) + " начислено бонусов"); // вывод бонусов на экран
+        System.out.println((Score) + " доступный баланс"); // вывод баланса на экран
 
     }
 }
